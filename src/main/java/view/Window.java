@@ -1,9 +1,8 @@
 package view;
 
 import java.awt.BorderLayout;
-import java.awt.Frame;
-import java.awt.Insets;
 import java.awt.Color;
+import java.awt.Frame;
 import java.awt.event.ComponentAdapter;
 import java.awt.event.ComponentEvent;
 import java.awt.event.KeyAdapter;

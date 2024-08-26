@@ -5,8 +5,6 @@ import java.awt.Graphics;
 import java.awt.Point;
 import java.util.Random;
 
-import java.awt.Dimension;
-
 import view.Ground;
 
 public class Pad

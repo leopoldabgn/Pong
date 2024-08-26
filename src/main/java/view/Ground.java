@@ -70,7 +70,6 @@ public class Ground extends JPanel implements ActionListener {
 	@Override
 	public void actionPerformed(ActionEvent e) {
 		Pad[] pads = new Pad[]{leftPad, rightPad};
-		System.out.println(collisions);
 
 		// Kickoff en cours
 		if(KICKOFF_START_TIME != -1) {
